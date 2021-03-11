@@ -3,3 +3,7 @@ Quick & Dirty Temperature Conversions
 250f - 121c
 275f - 135c
 300f - 148c
+325f - 163c
+350f - 177c
+375f = 190c
+400f = 204c
