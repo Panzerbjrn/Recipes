@@ -1,4 +1,6 @@
 Quick & Dirty Temperature Conversions
+100f - 38c
+200f - 93c
 225f - 107c
 250f - 121c
 275f - 135c
