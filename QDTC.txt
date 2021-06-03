@@ -9,3 +9,7 @@ Quick & Dirty Temperature Conversions
 350f - 177c
 375f = 190c
 400f = 204c
+425f = 218c
+450f = 232c
+475f = 246
+500f = 260
