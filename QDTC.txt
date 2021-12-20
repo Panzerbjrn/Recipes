@@ -1,6 +1,6 @@
 Quick & Dirty Temperature Conversions
-100f - 38c
-200f - 93c
+100f -  38c
+200f -  93c
 225f - 107c
 250f - 121c
 275f - 135c
@@ -11,5 +11,5 @@ Quick & Dirty Temperature Conversions
 400f = 204c
 425f = 218c
 450f = 232c
-475f = 246
-500f = 260
+475f = 246c
+500f = 260c
