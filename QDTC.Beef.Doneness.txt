@@ -1,0 +1,7 @@
+Beef Doneness:
+			Remove			Final temp
+Rare		48ºC / 118ºF	50ºC / 120ºF
+Medium Rare	52ºC / 125ºF	54ºC / 130ºF
+Medium		58ºC / 136ºF	60ºC / 140ºF
+Medium Well	62ºC / 143ºF	65ºC / 140ºF
+Well Done	68ºC / 154F		70ºC / 160ºF
