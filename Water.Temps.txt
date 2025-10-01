@@ -1,8 +1,23 @@
 Water Temperatures for my hob :-)
 
-Medium Pot:
-2 - 51c With Lid
-3 - 100c With Lid
+Small Element:
+Small pot:
+1 - 48c with lid
+2 - 70c with lid
+2 - 64c without lid
+4 - 76c without lid
 
-3 - 68c With Lid
+Medium element:
+Medium Pot:
+1 - 44c with lid
+2 - 80c with lid
+2 - 65c without lid
+4 - 79c without lid
+
+Large Element Level 1:
+Medium Pot:
+1 - 43c with lid
+2 - 66c with lid
+2 - 62c without lid
+4 - 73c without lid
 
