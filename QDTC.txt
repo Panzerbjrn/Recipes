@@ -13,3 +13,13 @@ Quick & Dirty Temperature Conversions
 450f = 232c
 475f = 246c
 500f = 260c
+
+
+
+Beef Doneness:
+    		Remove    		Final temp
+Rare		47ºC / 115ºF	50ºC / 120ºF
+Medium Rare	52ºC / 125ºF	54ºC / 130ºF
+Medium		57ºC / 134ºF	60ºC / 140ºF
+Medium Well	62ºC / 143ºF	65ºC / 150ºF
+Well Done	68ºC / 154F		70ºC / 160ºF
